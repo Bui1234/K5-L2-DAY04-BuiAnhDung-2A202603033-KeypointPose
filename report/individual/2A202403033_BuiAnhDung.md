@@ -39,7 +39,7 @@ Mẫu `person` dựng theo người quay mặt về camera (các điểm `left_*
 | `faces` | 8 | 8 | không áp dụng | không áp dụng | 10 |
 
 - Số ảnh người đã xong ở mốc phút 105: _10__ / 10
-- Thời gian thực tế (phút): CP1 _30__ · CP2 _50__ · CP3 _25__
+- Thời gian thực tế (phút): CP1 _25__ · CP2 _30__ · CP3 _50__
 - Ảnh tốn thời gian nhất là ảnh nào, vì sao?: 000000413160.jpg – nhóm Crowd, do có nhiều người nên mất thời gian phân biệt và gán keypoint chính xác.
 
 ## 3. Bảng ca khó (CP1, CP2)
