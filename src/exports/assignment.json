@@ -1,0 +1,43 @@
+{
+ "mssv": "02603033",
+ "ten": "BuiAnhDung",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "admin",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000027565.jpg",
+  "000000176000.jpg",
+  "000000205650.jpg",
+  "000000294329.jpg",
+  "000000433787.jpg",
+  "000000147780.jpg",
+  "000000156986.jpg",
+  "000000580257.jpg",
+  "000000123544.jpg",
+  "000000431988.jpg",
+  "000000106051.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_155465.jpg",
+  "face_257657.jpg",
+  "face_105668.jpg",
+  "face_79591.jpg",
+  "face_504911.jpg",
+  "face_255797.jpg",
+  "face_159828.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-BuiAnhDung"
+  },
+  "faces": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-BuiAnhDung"
+  }
+ }
+}
